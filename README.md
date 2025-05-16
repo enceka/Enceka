@@ -2,4 +2,5 @@
 
 👻 Hey!
 - My name is Enceka,which inspired by "eureka".
-- I am an amateur programmer. My avatar is my cat.
+- I am an amateur programmer.
+- My avatar is my cat.
